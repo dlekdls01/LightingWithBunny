@@ -1,4 +1,4 @@
-# LightingWithBunny
+# LightingWithBunny (OpenGL)
 ![bunny](https://user-images.githubusercontent.com/42207679/53178383-17161300-3635-11e9-82df-9803eee73e39.JPG)  
 <br>
 ## Functions
